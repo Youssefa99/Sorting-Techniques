@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621448459 source:c:\myprograms\codeblocks\sorting-techniques\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
